@@ -1,2 +1,1 @@
-# samuis.github.io
 # samuis
