@@ -4338,11 +4338,8 @@ readers do not read off random characters that represent icons */
 
 #juicer{
   display: none !important;
-<<<<<<< HEAD
 }
 
 .juicer-feed h1.referral{
  display: none !important; 
-=======
->>>>>>> c11d335989f7624bead66567e4a47d24d28dd69f
 }
